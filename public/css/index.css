@@ -1,0 +1,26 @@
+#head{
+
+  margin-left: 100px;
+}
+#frame{
+  margin-left: 100px;
+}
+#userstory{
+  border: 10px solid gray;
+}
+#storylist{
+  font-size: 1.2em;
+  color: green;
+}
+#natural{
+  margin-left: 20px;
+  color: #c9254e;
+}
+#unix{
+  margin-left: 20px;
+  color: #c9254e;
+}
+#json{
+  color: #c9254e;
+  margin-left: 20px;
+}
